@@ -13,11 +13,11 @@ This webpage demonstrates the use of semantic HTML elements for better accessibi
 
 ## Accessibility Considerations
 - Proper use of semantic elements for screen readers.
-- Alt attributes for images (if added later).
+- Alt attributes for images (if added ).
 - Clear and descriptive links.
 
 ## Deployment
-This page is hosted on **GitHub Pages**: [Deployed Link](#) *(Replace with actual link after deployment)*
+This page is hosted on GitHub Pages: https://hyejizxc.github.io/webpage/
 
 ## Validation
 The HTML file has been validated using the W3C Validator. Below is the validation screenshot:
